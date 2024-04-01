@@ -1,0 +1,48 @@
+# phpstorm project files
+.idea
+
+# vscode
+.vscode
+
+# netbeans project files
+nbproject
+
+# zend studio for eclipse project files
+.buildpath
+.project
+.settings
+
+# sublime text project / workspace files
+*.sublime-project
+*.sublime-workspace
+
+# windows thumbnail cache
+Thumbs.db
+
+# composer vendor dir
+/vendor
+
+# composer itself is not needed
+composer.phar
+
+# Mac DS_Store Files
+.DS_Store
+
+# phpunit itself is not needed
+phpunit.phar
+.phpunit.result.cache
+
+# NPM packages
+/node_modules
+
+# Codeception
+c3.php
+
+# Composer
+composer.lock
+
+# Docker
+/local-data
+/tmp
+
+/logs
